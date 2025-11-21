@@ -242,7 +242,7 @@ Open browser to `http://localhost:8000/docs`
 
 1. **Navigate to Flutter directory:**
 ```bash
-cd FlutterApp
+cd mobile_app_regression_analysis
 ```
 
 2. **Get dependencies:**
